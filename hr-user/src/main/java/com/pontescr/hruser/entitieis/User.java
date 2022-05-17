@@ -1,4 +1,4 @@
-package com.pontescr.hruser;
+package com.pontescr.hruser.entitieis;
 
 import java.io.Serializable;
 import java.util.HashSet;
